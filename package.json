@@ -1,0 +1,8 @@
+{
+  "name": "reload",
+  "version": "1.0.0",
+  "dependencies": {
+    "puppeteer": "^20.8.2",
+    "query-selector-shadow-dom": "^1.0.1"
+  }
+}
